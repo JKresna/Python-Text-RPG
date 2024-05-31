@@ -1,4 +1,3 @@
-import sys
 import os
 import time
 import random
@@ -7,3 +6,7 @@ import textwrap
 
 # Import modul
 from .player_setup import *
+from .title_screen import *
+
+
+screen_witdh = 100
